@@ -6,7 +6,7 @@
 ### <div align="center">Un joven desarrollador muy ambicioso, amante de la tecnología tanto backend como front-end.🚀</div>  
   
 
-- 🔭  Soy actualmente estoy trabajando en AUDICOR  
+- 🔭  Soy actualmente estoy trabajando en SYSTEL.SA  
   
 
 - 🌱 Actualmente estoy aprendiendo TypeScript, Java  
